@@ -7,6 +7,7 @@ exports.getProductsByCategory = async (req, res, next) => {
     const products = await services.getProductByCategory(category);
 
     if (!products) {
+      console.log("Im returning a 404 status");
       return res.status(404).json({
         message: "Not found",
       });

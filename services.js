@@ -14,7 +14,7 @@ exports.getProductByCategory = async (category) => {
     { $match: { category } },
     { $project: { name: 1, description: 1, new: 1, categoryImg: 1, alt: 1 } },
   ]);
-
+  console.log(products);
   return products;
 };
 

@@ -9,6 +9,7 @@ if (!mongoURI) {
   console.log("MongoDB URI not set from .env file");
   process.exit(1);
 }
+console.log(mongoURI);
 
 const connectDB = async () => {
   try {

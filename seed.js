@@ -59,11 +59,11 @@ const products = [
           alt: "Girl dancing with headphones on",
         },
         {
-          url: "/assets/product-xx59-headphones/mobile/image-gallery-2",
+          url: "/assets/product-xx59-headphones/mobile/image-gallery-2.jpg",
           alt: "headphones hanging on a desk",
         },
         {
-          url: "/assets/product-xx59-headphones/mobile/image-gallery-3",
+          url: "/assets/product-xx59-headphones/mobile/image-gallery-3.jpg",
           alt: "A hand dangling headphones off their finger",
         },
       ],
@@ -73,11 +73,11 @@ const products = [
           alt: "Girl dancing with headphones on",
         },
         {
-          url: "/assets/product-xx59-headphones/tablet/image-gallery-2",
+          url: "/assets/product-xx59-headphones/tablet/image-gallery-2.jpg",
           alt: "headphones hanging on a desk",
         },
         {
-          url: "/assets/product-xx59-headphones/tablet/image-gallery-3",
+          url: "/assets/product-xx59-headphones/tablet/image-gallery-3.jpg",
           alt: "A hand dangling headphones off their finger",
         },
       ],
@@ -87,11 +87,11 @@ const products = [
           alt: "Girl dancing with headphones on",
         },
         {
-          url: "/assets/product-xx59-headphones/desktop/image-gallery-2",
+          url: "/assets/product-xx59-headphones/desktop/image-gallery-2.jpg",
           alt: "headphones hanging on a desk",
         },
         {
-          url: "/assets/product-xx59-headphones/desktop/image-gallery-3",
+          url: "/assets/product-xx59-headphones/desktop/image-gallery-3.jpg",
           alt: "A hand dangling headphones off their finger",
         },
       ],
@@ -152,11 +152,11 @@ const products = [
           alt: "Girl dancing with headphones on",
         },
         {
-          url: "/assets/product-xx99-mark-one-headphones/mobile/image-gallery-2",
+          url: "/assets/product-xx99-mark-one-headphones/mobile/image-gallery-2.jpg",
           alt: "headphones hanging on a desk",
         },
         {
-          url: "/assets/product-xx99-mark-one-headphones/mobile/image-gallery-3",
+          url: "/assets/product-xx99-mark-one-headphones/mobile/image-gallery-3.jpg",
           alt: "A hand dangling headphones off their finger",
         },
       ],
@@ -166,11 +166,11 @@ const products = [
           alt: "Girl dancing with headphones on",
         },
         {
-          url: "/assets/product-xx99-mark-one-headphones/tablet/image-gallery-2",
+          url: "/assets/product-xx99-mark-one-headphones/tablet/image-gallery-2.jpg",
           alt: "headphones hanging on a desk",
         },
         {
-          url: "/assets/product-xx99-mark-one-headphones/tablet/image-gallery-3",
+          url: "/assets/product-xx99-mark-one-headphones/tablet/image-gallery-3.jpg",
           alt: "A hand dangling headphones off their finger",
         },
       ],
@@ -180,11 +180,11 @@ const products = [
           alt: "Girl dancing with headphones on",
         },
         {
-          url: "/assets/product-xx99-mark-one-headphones/desktop/image-gallery-2",
+          url: "/assets/product-xx99-mark-one-headphones/desktop/image-gallery-2.jpg",
           alt: "headphones hanging on a desk",
         },
         {
-          url: "/assets/product-xx99-mark-one-headphones/desktop/image-gallery-3",
+          url: "/assets/product-xx99-mark-one-headphones/desktop/image-gallery-3.jpg",
           alt: "A hand dangling headphones off their finger",
         },
       ],
@@ -249,11 +249,11 @@ const products = [
           alt: "Girl dancing with headphones on",
         },
         {
-          url: "/assets/product-xx99-mark-two-headphones/mobile/image-gallery-2",
+          url: "/assets/product-xx99-mark-two-headphones/mobile/image-gallery-2.jpg",
           alt: "headphones hanging on a desk",
         },
         {
-          url: "/assets/product-xx99-mark-two-headphones/mobile/image-gallery-3",
+          url: "/assets/product-xx99-mark-two-headphones/mobile/image-gallery-3.jpg",
           alt: "A hand dangling headphones off their finger",
         },
       ],
@@ -263,11 +263,11 @@ const products = [
           alt: "Girl dancing with headphones on",
         },
         {
-          url: "/assets/product-xx99-mark-two-headphones/tablet/image-gallery-2",
+          url: "/assets/product-xx99-mark-two-headphones/tablet/image-gallery-2.jpg",
           alt: "headphones hanging on a desk",
         },
         {
-          url: "/assets/product-xx99-mark-two-headphones/tablet/image-gallery-3",
+          url: "/assets/product-xx99-mark-two-headphones/tablet/image-gallery-3.jpg",
           alt: "A hand dangling headphones off their finger",
         },
       ],
@@ -277,11 +277,11 @@ const products = [
           alt: "Girl dancing with headphones on",
         },
         {
-          url: "/assets/product-xx99-mark-two-headphones/desktop/image-gallery-2",
+          url: "/assets/product-xx99-mark-two-headphones/desktop/image-gallery-2.jpg",
           alt: "headphones hanging on a desk",
         },
         {
-          url: "/assets/product-xx99-mark-two-headphones/desktop/image-gallery-3",
+          url: "/assets/product-xx99-mark-two-headphones/desktop/image-gallery-3.jpg",
           alt: "A hand dangling headphones off their finger",
         },
       ],
@@ -343,11 +343,11 @@ const products = [
           alt: "Girl dancing with headphones on",
         },
         {
-          url: "/assets/product-yx1-earphones/mobile/image-gallery-2",
+          url: "/assets/product-yx1-earphones/mobile/image-gallery-2.jpg",
           alt: "headphones hanging on a desk",
         },
         {
-          url: "/assets/product-yx1-earphones/mobile/image-gallery-3",
+          url: "/assets/product-yx1-earphones/mobile/image-gallery-3.jpg",
           alt: "A hand dangling headphones off their finger",
         },
       ],
@@ -357,11 +357,11 @@ const products = [
           alt: "Girl dancing with headphones on",
         },
         {
-          url: "/assets/product-yx1-earphones/tablet/image-gallery-2",
+          url: "/assets/product-yx1-earphones/tablet/image-gallery-2.jpg",
           alt: "headphones hanging on a desk",
         },
         {
-          url: "/assets/product-yx1-earphones/tablet/image-gallery-3",
+          url: "/assets/product-yx1-earphones/tablet/image-gallery-3.jpg",
           alt: "A hand dangling headphones off their finger",
         },
       ],
@@ -371,11 +371,11 @@ const products = [
           alt: "Girl dancing with headphones on",
         },
         {
-          url: "/assets/product-yx1-earphones/desktop/image-gallery-2",
+          url: "/assets/product-yx1-earphones/desktop/image-gallery-2.jpg",
           alt: "headphones hanging on a desk",
         },
         {
-          url: "/assets/product-yx1-earphones/desktop/image-gallery-3",
+          url: "/assets/product-yx1-earphones/desktop/image-gallery-3.jpg",
           alt: "A hand dangling headphones off their finger",
         },
       ],
@@ -437,11 +437,11 @@ const products = [
           alt: "Girl dancing with headphones on",
         },
         {
-          url: "/assets/product-zx9-speaker/mobile/image-gallery-2",
+          url: "/assets/product-zx9-speaker/mobile/image-gallery-2.jpg",
           alt: "headphones hanging on a desk",
         },
         {
-          url: "/assets/product-zx9-speaker/mobile/image-gallery-3",
+          url: "/assets/product-zx9-speaker/mobile/image-gallery-3.jpg",
           alt: "A hand dangling headphones off their finger",
         },
       ],
@@ -451,11 +451,11 @@ const products = [
           alt: "Girl dancing with headphones on",
         },
         {
-          url: "/assets/product-zx9-speaker/tablet/image-gallery-2",
+          url: "/assets/product-zx9-speaker/tablet/image-gallery-2.jpg",
           alt: "headphones hanging on a desk",
         },
         {
-          url: "/assets/product-zx9-speaker/tablet/image-gallery-3",
+          url: "/assets/product-zx9-speaker/tablet/image-gallery-3.jpg",
           alt: "A hand dangling headphones off their finger",
         },
       ],
@@ -465,11 +465,11 @@ const products = [
           alt: "Girl dancing with headphones on",
         },
         {
-          url: "/assets/product-zx9-speaker/desktop/image-gallery-2",
+          url: "/assets/product-zx9-speaker/desktop/image-gallery-2.jpg",
           alt: "headphones hanging on a desk",
         },
         {
-          url: "/assets/product-zx9-speaker/desktop/image-gallery-3",
+          url: "/assets/product-zx9-speaker/desktop/image-gallery-3.jpg",
           alt: "A hand dangling headphones off their finger",
         },
       ],
@@ -531,11 +531,11 @@ const products = [
           alt: "Girl dancing with headphones on",
         },
         {
-          url: "/assets/product-zx7-speaker/mobile/image-gallery-2",
+          url: "/assets/product-zx7-speaker/mobile/image-gallery-2.jpg",
           alt: "headphones hanging on a desk",
         },
         {
-          url: "/assets/product-zx7-speaker/mobile/image-gallery-3",
+          url: "/assets/product-zx7-speaker/mobile/image-gallery-3.jpg",
           alt: "A hand dangling headphones off their finger",
         },
       ],
@@ -545,11 +545,11 @@ const products = [
           alt: "Girl dancing with headphones on",
         },
         {
-          url: "/assets/product-zx7-speaker/tablet/image-gallery-2",
+          url: "/assets/product-zx7-speaker/tablet/image-gallery-2.jpg",
           alt: "headphones hanging on a desk",
         },
         {
-          url: "/assets/product-zx7-speaker/tablet/image-gallery-3",
+          url: "/assets/product-zx7-speaker/tablet/image-gallery-3.jpg",
           alt: "A hand dangling headphones off their finger",
         },
       ],
@@ -559,11 +559,11 @@ const products = [
           alt: "Girl dancing with headphones on",
         },
         {
-          url: "/assets/product-zx7-speaker/desktop/image-gallery-2",
+          url: "/assets/product-zx7-speaker/desktop/image-gallery-2.jpg",
           alt: "headphones hanging on a desk",
         },
         {
-          url: "/assets/product-zx7-speaker/desktop/image-gallery-3",
+          url: "/assets/product-zx7-speaker/desktop/image-gallery-3.jpg",
           alt: "A hand dangling headphones off their finger",
         },
       ],
@@ -573,7 +573,8 @@ const products = [
 
 const seedDB = async () => {
   try {
-    await mongoose.connect(process.env.DEV_DB);
+    await mongoose.connect(process.env.PROD_DB);
+    await Product.deleteMany({});
     await Product.create(products);
     console.log("Successful");
     mongoose.connection.close();

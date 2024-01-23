@@ -48,6 +48,10 @@ const ProductSchema = new Schema({
     type: String,
     required: true,
   },
+  cartImg: {
+    type: String,
+    required: true,
+  },
   categoryImg: {
     mobile: {
       type: String,
