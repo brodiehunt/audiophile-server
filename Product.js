@@ -118,6 +118,9 @@ const ProductSchema = new Schema({
       },
     ],
   },
+  price_Id: {
+    type: String,
+  },
 });
 
 const Product = mongoose.model("Product", ProductSchema);
